@@ -5,6 +5,6 @@
 <head> 
 </head>
 
-<h3> Internet Analytics </h3>
+<h3> Idk we changed the name 3 times it's just some app now </h3>
 
 </html>
